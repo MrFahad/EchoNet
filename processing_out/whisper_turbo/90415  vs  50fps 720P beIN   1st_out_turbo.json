@@ -1,0 +1,30 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "sl",
+        "original": "Oblak",
+        "translated": "Cloud"
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "able to usher it into",
+        "translated": "able to usher it into"
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "penalty area and defuse that particular",
+        "translated": "penalty area and defuse that particular"
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "potentially dangerous situation.",
+        "translated": "potentially dangerous situation."
+    }
+]

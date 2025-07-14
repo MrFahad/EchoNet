@@ -1,0 +1,16 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "He'll get things.",
+        "translated": "He'll get things."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "I'm the wife.",
+        "translated": "I'm the wife."
+    }
+]

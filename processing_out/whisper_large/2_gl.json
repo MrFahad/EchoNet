@@ -1,0 +1,51 @@
+[
+    {
+        "file": "commentator_clip_0.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Ich fand, überragenden Spiel gegen Leverkusen. Das ist auf ganz, ganz wenige Ausnahme. Da muss man den Haar schon ein paar Mal spalten.",
+        "translated": "I found outstanding game against Leverkusen.This is very few exception.You have to split your hair a few times."
+    },
+    {
+        "file": "spectator_clip_1.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Wir sind souverän.",
+        "translated": "We are sovereign."
+    },
+    {
+        "file": "commentator_clip_2.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Damit ganz, ganz...",
+        "translated": "So completely, quite ..."
+    },
+    {
+        "file": "spectator_clip_3.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "starken Bällen.",
+        "translated": "Strong balls."
+    },
+    {
+        "file": "commentator_clip_4.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Ob nun auf die Flügel, so wie hier, oder durchs Zentrum.",
+        "translated": "Whether on the wings, like here, or through the center."
+    },
+    {
+        "file": "spectator_clip_5.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "You",
+        "translated": "You"
+    },
+    {
+        "file": "commentator_clip_6.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Aber so ist das in dieser Saison bei Mats Hummels.",
+        "translated": "But that's the way it is at Mats Hummels this season."
+    }
+]

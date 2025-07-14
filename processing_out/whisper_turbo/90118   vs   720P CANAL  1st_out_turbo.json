@@ -1,0 +1,44 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "ja",
+        "original": "また。",
+        "translated": "Also."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Toca raseando, lo mata para Schveini, el centro del alemán, eso es muy fácil para Macioli.",
+        "translated": "Touch raase, kills him for Schveini, the center of the German, that is very easy for Macioli."
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "afrontar ahí.",
+        "translated": "face there."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "le das al West Brom precisamente lo que más",
+        "translated": "You give the West Brom precisely what the most"
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "le gusta, con lo que más a gusto se siente, con esos balones portales.",
+        "translated": "He likes, with what he feels most comfortable, with those portal balls."
+    },
+    {
+        "file": "spectator_clip5.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Este es el gran reto.",
+        "translated": "This is the great challenge."
+    }
+]

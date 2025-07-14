@@ -1,0 +1,51 @@
+[
+    {
+        "file": "commentator_clip_0.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Ich fand ein überragendes Spiel gegen Leverkusen, bis auf ganz, ganz wenige Ausnahmen, weil da muss man den H schon ein paar Mal spalten.",
+        "translated": "I found an outstanding game against Leverkusen, with very few exceptions, because there you have to split the h a few times."
+    },
+    {
+        "file": "spectator_clip_1.wav",
+        "type": "spectator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "commentator_clip_2.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "mit ganz, ganz...",
+        "translated": "With entirely, quite ..."
+    },
+    {
+        "file": "spectator_clip_3.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "starken Bällen.",
+        "translated": "Strong balls."
+    },
+    {
+        "file": "commentator_clip_4.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Ob nun auf die Flügel, so wie hier, oder durchs Zentrum.",
+        "translated": "Whether on the wings, like here, or through the center."
+    },
+    {
+        "file": "spectator_clip_5.wav",
+        "type": "spectator",
+        "lang": "fr",
+        "original": "Et puis on va partir.",
+        "translated": "And then we're going to leave."
+    },
+    {
+        "file": "commentator_clip_6.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Aber so ist das in dieser Saison bei Mats Hummels.",
+        "translated": "But that's the way it is at Mats Hummels this season."
+    }
+]

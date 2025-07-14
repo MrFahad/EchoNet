@@ -1,0 +1,37 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "no",
+        "original": "Leveti looking for Ibrahimović.",
+        "translated": "Liveti Looking for Ibrahimović."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Might still fall for the sweep, but it's away by Ken Carver.",
+        "translated": "Might still fall for the sweep, but it's away by Ken Carver."
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "That will buy around some time, only Grigion Kieh is up there.",
+        "translated": "That will buy around some time, only Grigion Kieh is up there."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Ten shots to three.",
+        "translated": "Ten shots to three."
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "in Paris Saint-Germain's favour but 0-0 on the scoreline",
+        "translated": "in Paris Saint-Germain's favour but 0-0 on the scoreline"
+    }
+]

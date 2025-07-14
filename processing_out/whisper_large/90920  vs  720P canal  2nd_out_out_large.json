@@ -1,0 +1,58 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Gracias.",
+        "translated": "Gracias."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "esa presión por parte del Citi.",
+        "translated": "That pressure from the CITI."
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Se está obligando a retrasar.",
+        "translated": "He is forcing to delay."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "...su posición...",
+        "translated": "...assumption..."
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Al equipo de Slavin Village.",
+        "translated": "To the Slavin Village team."
+    },
+    {
+        "file": "spectator_clip5.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Adriano.",
+        "translated": "Adriano."
+    },
+    {
+        "file": "commentator_clip6.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "en el que Otamendi",
+        "translated": "in which Otamendi"
+    },
+    {
+        "file": "spectator_clip7.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Consigue despejar, buen control de De Bruyne, el pase es para Sterling.",
+        "translated": "Get clear, good control of De Bruyne, the pass is for Sterling."
+    }
+]

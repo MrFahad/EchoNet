@@ -1,0 +1,51 @@
+[
+    {
+        "file": "commentator_clip_0.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Ich fand überragend ein Spiel gegen Leverkusen. Das ist auf ganz, ganz wenige Ausnahmen, weil da muss man den Haar schon ein paar Mal spalten.",
+        "translated": "I found a game against Leverkusen outstandingly.This is very, very few exceptions, because you have to split your hair a few times."
+    },
+    {
+        "file": "spectator_clip_1.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "hinten souverän.",
+        "translated": "sovereign in the back."
+    },
+    {
+        "file": "commentator_clip_2.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "mit ganz, ganz",
+        "translated": "with entirely, entirely"
+    },
+    {
+        "file": "spectator_clip_3.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "starken Bällen.",
+        "translated": "Strong balls."
+    },
+    {
+        "file": "commentator_clip_4.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Ob nun auf die Flügel, so wie hier, oder durchs Zentrum.",
+        "translated": "Whether on the wings, like here, or through the center."
+    },
+    {
+        "file": "spectator_clip_5.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "be my party.",
+        "translated": "be my party."
+    },
+    {
+        "file": "commentator_clip_6.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Aber so ist das in dieser Saison bei Max Hummels.",
+        "translated": "But that's the way it is with Max Hummels this season."
+    }
+]

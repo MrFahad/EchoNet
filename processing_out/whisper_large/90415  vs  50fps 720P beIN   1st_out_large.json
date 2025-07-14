@@ -1,0 +1,30 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "It's all black.",
+        "translated": "It's all black."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "was able to usher it into",
+        "translated": "was able to usher it into"
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "this penalty area and defuse that particular",
+        "translated": "this penalty area and defuse that particular"
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "potentially dangerous situation.",
+        "translated": "potentially dangerous situation."
+    }
+]

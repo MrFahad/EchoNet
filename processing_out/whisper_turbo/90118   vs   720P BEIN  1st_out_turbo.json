@@ -1,0 +1,37 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "live this",
+        "translated": "live this"
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "season both in",
+        "translated": "season both in"
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "the domestic league and in Europe.",
+        "translated": "the domestic league and in Europe."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "in den Kaufblock bei Matsuini.",
+        "translated": "In the shopping block at Matsuini."
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "to a flying start in Ligue 1 this season.",
+        "translated": "to a flying start in Ligue 1 this season."
+    }
+]

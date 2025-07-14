@@ -1,0 +1,23 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "We'll be right back.",
+        "translated": "We'll be right back."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "1-1 wäre für Darmstadt auch ein Traumergebnis.",
+        "translated": "1-1 would also be a dream result for Darmstadt."
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Life is over.",
+        "translated": "Life is over."
+    }
+]

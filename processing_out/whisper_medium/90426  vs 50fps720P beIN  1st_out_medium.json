@@ -1,0 +1,16 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "You'll get things.",
+        "translated": "You'll get things."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "I'm the white.",
+        "translated": "I'm the white."
+    }
+]
