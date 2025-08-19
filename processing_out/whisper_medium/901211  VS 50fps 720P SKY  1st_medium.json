@@ -1,0 +1,352 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Es ist ein Finale mit begrenzten eigenen.",
+        "translated": "It is a final with limited own."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Möglichkeiten, aber...",
+        "translated": "Possibilities, but ..."
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Zumindest kann Schalke...",
+        "translated": "At least Schalke can ..."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Voraussetzungen schaffen mit einem Sieg. Willkommen hier aus Maribor, im eiskalten Maribor.",
+        "translated": "Create prerequisites with a win.Welcome here from Maribor, in the ice -cold Maribor."
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Slovenian",
+        "translated": "Slovenian"
+    },
+    {
+        "file": "spectator_clip5.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Nochmal also die Kernfakten zusammengefasst.",
+        "translated": "So again summarized the core facts."
+    },
+    {
+        "file": "commentator_clip6.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Schalke hier.",
+        "translated": "Schalke here."
+    },
+    {
+        "file": "spectator_clip7.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "von 600 Fans begleitet muss gewinnen.",
+        "translated": "Accompanied by 600 fans."
+    },
+    {
+        "file": "commentator_clip8.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "und im Parallelsspiel.",
+        "translated": "And in the parallel game."
+    },
+    {
+        "file": "spectator_clip9.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Understand what rich",
+        "translated": "Understand what rich"
+    },
+    {
+        "file": "commentator_clip10.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "muss Chelsea Sporting Lissabon schlagen, dann wäre...",
+        "translated": "If Chelsea Sporting Lisbon has to beat, then ..."
+    },
+    {
+        "file": "spectator_clip11.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "auch der vierte Bundesligisten.",
+        "translated": "also the fourth Bundesliga club."
+    },
+    {
+        "file": "commentator_clip12.wav",
+        "type": "commentator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "spectator_clip13.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Der FC Schalke 04.",
+        "translated": "FC Schalke 04."
+    },
+    {
+        "file": "commentator_clip14.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "im Aktienfinale.",
+        "translated": "in the equity final."
+    },
+    {
+        "file": "spectator_clip15.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Wir werden sie parallel natürlich über den Spielstand...",
+        "translated": "We will of course be over the score in parallel ..."
+    },
+    {
+        "file": "commentator_clip16.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "in London informieren.",
+        "translated": "inform in London."
+    },
+    {
+        "file": "spectator_clip17.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Wir müssen diesmal...",
+        "translated": "This time we have to ..."
+    },
+    {
+        "file": "commentator_clip18.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Also zwei Schauplätze im Auge behalten.",
+        "translated": "So keep an eye on two locations."
+    },
+    {
+        "file": "spectator_clip19.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "das kleinste Stadion.",
+        "translated": "The smallest stadium."
+    },
+    {
+        "file": "commentator_clip20.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "im Champions League Wettbewerb.",
+        "translated": "in the Champions League competition."
+    },
+    {
+        "file": "spectator_clip21.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "13.000 Zuschauer passen hier rein.",
+        "translated": "13,000 spectators fit in here."
+    },
+    {
+        "file": "commentator_clip22.wav",
+        "type": "commentator",
+        "lang": "ru",
+        "original": "Людский ВРТЬ!",
+        "translated": "Human!"
+    },
+    {
+        "file": "spectator_clip23.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Hier haben wir...",
+        "translated": "Here we have ..."
+    },
+    {
+        "file": "commentator_clip24.wav",
+        "type": "commentator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "spectator_clip25.wav",
+        "type": "spectator",
+        "lang": "ru",
+        "original": "С вами был Игорь Негода.",
+        "translated": "Igor Nekoda was with you."
+    },
+    {
+        "file": "commentator_clip26.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "links neben ihm.",
+        "translated": "To the left of him."
+    },
+    {
+        "file": "spectator_clip27.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "The manager has held.",
+        "translated": "The manager has held."
+    },
+    {
+        "file": "commentator_clip28.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "werden wir nachträglich zum Geburtstag gratulieren, es ist gestern 45 Jahre alt geworden.",
+        "translated": "we will congratulate on the birthday afterwards, it turned 45 yesterday."
+    },
+    {
+        "file": "spectator_clip29.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Kapitän.",
+        "translated": "Captain."
+    },
+    {
+        "file": "commentator_clip30.wav",
+        "type": "commentator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "spectator_clip31.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "und hier haben wir",
+        "translated": "And here we have"
+    },
+    {
+        "file": "commentator_clip32.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Hinterkirchhoff die einzige Veränderung.",
+        "translated": "Hinterkirchhoff the only change."
+    },
+    {
+        "file": "spectator_clip33.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "in der Schalke 11 gegenüber dem Bundesliga-Klinikum Stuttgart.",
+        "translated": "In Schalke 11 opposite the Bundesliga Clinic Stuttgart."
+    },
+    {
+        "file": "commentator_clip34.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Bye for now.",
+        "translated": "Bye for now."
+    },
+    {
+        "file": "spectator_clip35.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Let's begin.",
+        "translated": "Let's begin."
+    },
+    {
+        "file": "commentator_clip36.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Anstelle von Max Meyer.",
+        "translated": "Instead of Max Meyer."
+    },
+    {
+        "file": "spectator_clip37.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "aus Polen angeführt.",
+        "translated": "cited from Poland."
+    },
+    {
+        "file": "commentator_clip38.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "by Shimon Marsiniak.",
+        "translated": "by Shimon Marsiniak."
+    },
+    {
+        "file": "spectator_clip39.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "33 Jahre alt, es ist seine erste Champions-League-Saison.",
+        "translated": "33 years old, it is his first Champions League season."
+    },
+    {
+        "file": "commentator_clip40.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "ausverkauft, am vergangenen Wochenende im Liga-Spiel.",
+        "translated": "Sold out, last weekend in the league game."
+    },
+    {
+        "file": "spectator_clip41.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Verloren sich hier gerade mal tausend Zuschauer.",
+        "translated": "Just lost a thousand spectators here."
+    },
+    {
+        "file": "commentator_clip42.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "in diesem ...",
+        "translated": "in this ..."
+    },
+    {
+        "file": "spectator_clip43.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Man scheut sich weit im Rund.",
+        "translated": "You shy away from the round."
+    },
+    {
+        "file": "commentator_clip44.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "zu sagen.",
+        "translated": "to say."
+    },
+    {
+        "file": "spectator_clip45.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Die Champions League ganz nah!",
+        "translated": "The Champions League very close!"
+    },
+    {
+        "file": "commentator_clip46.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Thanks for watching!",
+        "translated": "Thanks for watching!"
+    },
+    {
+        "file": "spectator_clip47.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Angela!",
+        "translated": "Angela!"
+    },
+    {
+        "file": "commentator_clip48.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Spitzig gemeinsam mit...",
+        "translated": "Pointed together with ..."
+    },
+    {
+        "file": "spectator_clip49.wav",
+        "type": "spectator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    }
+]

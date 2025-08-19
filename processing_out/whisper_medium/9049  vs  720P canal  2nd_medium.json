@@ -1,0 +1,352 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "ru",
+        "original": "Это всё.",
+        "translated": "This is all."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "y tantos días.",
+        "translated": "And so many days."
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "en este mes.",
+        "translated": "In this month."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "El Barça se juega prácticamente toda la temporada, las opciones de mantenerse vivo en tres competiciones fue realmente...",
+        "translated": "Barça plays practically the whole season, the options to stay alive in three competitions was really ..."
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Es muy, muy importante, por lo tanto, ese desplazamiento a Sevilla, que no ha perdido ningún partido de Liga, es el único equipo de primera división.",
+        "translated": "It is very, very important, therefore, that displacement to Seville, which has not lost any league game, is the only First Division team."
+    },
+    {
+        "file": "spectator_clip5.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "que no ha sido derrotado en su feudo y luego el enfrentamiento con el Paris Saint-Germain.",
+        "translated": "that has not been defeated in his fief and then the confrontation with the Paris Saint-Germain."
+    },
+    {
+        "file": "commentator_clip6.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "recibir al Valencia, ese Valencia fuerte.",
+        "translated": "Receive Valencia, that strong Valencia."
+    },
+    {
+        "file": "spectator_clip7.wav",
+        "type": "spectator",
+        "lang": "ca",
+        "original": "i, a més, després, visitar Cornellà al Prat amb la rivalitat entre el dèficit català.",
+        "translated": "And also, then visit Cornellà in El Prat with the rivalry between the Catalan deficit."
+    },
+    {
+        "file": "commentator_clip8.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Están ahí los jugadores de los dos equipos, Fernando Soriano que conversa con Xavi Hernández.",
+        "translated": "The players of the two teams are there, Fernando Soriano who talks with Xavi Hernández."
+    },
+    {
+        "file": "spectator_clip9.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "El capitán del FC Barcelona...",
+        "translated": "The captain of FC Barcelona ..."
+    },
+    {
+        "file": "commentator_clip10.wav",
+        "type": "commentator",
+        "lang": "it",
+        "original": "¡Leo Messi!",
+        "translated": "¡Leo Messi!"
+    },
+    {
+        "file": "spectator_clip11.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "y ha marcado la diferencia en la primera mitad con un gran gol.",
+        "translated": "And it has made the difference in the first half with a great goal."
+    },
+    {
+        "file": "commentator_clip12.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Thank you.",
+        "translated": "Thank you."
+    },
+    {
+        "file": "spectator_clip13.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Marca con su rubrica",
+        "translated": "Mark with your sieve"
+    },
+    {
+        "file": "commentator_clip14.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "con su estilo, con su calidad.",
+        "translated": "With your style, with your quality."
+    },
+    {
+        "file": "spectator_clip15.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "en la almería.",
+        "translated": "In the Almeria."
+    },
+    {
+        "file": "commentator_clip16.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "también han utilizado sus armas y que...",
+        "translated": "They have also used their weapons and that ..."
+    },
+    {
+        "file": "spectator_clip17.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Aquí estamos, en algún momento, a Claudio Bravo.",
+        "translated": "Here we are, at some point, Claudio Bravo."
+    },
+    {
+        "file": "commentator_clip18.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Hernández, Hernández.",
+        "translated": "Hernández, Hernández."
+    },
+    {
+        "file": "spectator_clip19.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Un poquito trabajo.",
+        "translated": "A little work."
+    },
+    {
+        "file": "commentator_clip20.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Muchas gracias por las interrupciones.",
+        "translated": "Thank you very much for the interruptions."
+    },
+    {
+        "file": "spectator_clip21.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "decisiones",
+        "translated": "decisions"
+    },
+    {
+        "file": "commentator_clip22.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "de calado en las áreas.",
+        "translated": "of draft in the areas."
+    },
+    {
+        "file": "spectator_clip23.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Así que están ya todos los protagonistas requeridos necesarios para que pueda comenzar.",
+        "translated": "So there are already all the required protagonists necessary for you to start."
+    },
+    {
+        "file": "commentator_clip24.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "La segunda mitad y un partido noble con pocas entradas, diríamos, duras y...",
+        "translated": "The second half and a noble game with few tickets, we would say, harsh and ..."
+    },
+    {
+        "file": "spectator_clip25.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Sí, muy muy organizado.",
+        "translated": "Yes, very very organized."
+    },
+    {
+        "file": "commentator_clip26.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "defensivamente de la unidad.",
+        "translated": "defensively of the unit."
+    },
+    {
+        "file": "spectator_clip27.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Balón en juego, segundo período por delante, 45 minutos en los que el Barça va a intentar refrendar su victoria, 45 minutos en los que...",
+        "translated": "Ball at stake, second period ahead, 45 minutes in which Barça will try to endorse his victory, 45 minutes in which ..."
+    },
+    {
+        "file": "commentator_clip28.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "El Almería va a pensar...",
+        "translated": "Almería is going to think ..."
+    },
+    {
+        "file": "spectator_clip29.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "que todavía es posible sacar algo.",
+        "translated": "That it is still possible to get something."
+    },
+    {
+        "file": "commentator_clip30.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "de su visita al campo o algo...",
+        "translated": "From your visit to the field or something ..."
+    },
+    {
+        "file": "spectator_clip31.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "nada fácil, pero...",
+        "translated": "Nothing easy, but ..."
+    },
+    {
+        "file": "commentator_clip32.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Nos han conseguido.",
+        "translated": "They have achieved us."
+    },
+    {
+        "file": "spectator_clip33.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "hablábamos de la buena rancha del fútbol club Barcelona de...",
+        "translated": "We talked about the good racha of the Barcelona Club Football of ..."
+    },
+    {
+        "file": "commentator_clip34.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "su excelente trayectoria de resultado.",
+        "translated": "Its excellent outcome of result."
+    },
+    {
+        "file": "spectator_clip35.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Come on.",
+        "translated": "Come on."
+    },
+    {
+        "file": "commentator_clip36.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "El próximo rival en Liga del Barça, el Sevilla, no ha perdido en casa, el Barça su última derrota fue en casa.",
+        "translated": "The next opponent in Barça League, Sevilla, has not lost at home, Barça his last defeat was at home."
+    },
+    {
+        "file": "spectator_clip37.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Voy ante el Málaga.",
+        "translated": "I go to Málaga."
+    },
+    {
+        "file": "commentator_clip38.wav",
+        "type": "commentator",
+        "lang": "oc",
+        "original": "Alors que Fubon, Sergi, Roberto, Ancile et Messi s'y a llevado la pelote à Edgar.",
+        "translated": "While they were, Sergi, Roberto, Ancile and Messi has taken the ball to Edgar."
+    },
+    {
+        "file": "spectator_clip39.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "RIDGAR-TV",
+        "translated": "RIDGAR-TV"
+    },
+    {
+        "file": "commentator_clip40.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Edgar estaba pidiendo el balón al espacio y no le vio a Thierry, pero la posibilidad era...",
+        "translated": "Edgar was asking for the ball to space and did not see Thierry, but the possibility was ..."
+    },
+    {
+        "file": "spectator_clip41.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Buena, para...",
+        "translated": "Good, for ..."
+    },
+    {
+        "file": "commentator_clip42.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "el extremo de la Almería.",
+        "translated": "The end of the Almeria."
+    },
+    {
+        "file": "spectator_clip43.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "recibe la pelota Trujillo, toque Antonio Marín.",
+        "translated": "Receive the Trujillo ball, Touch Antonio Marín."
+    },
+    {
+        "file": "commentator_clip44.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Wellington",
+        "translated": "Wellington"
+    },
+    {
+        "file": "spectator_clip45.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Wellington Silva",
+        "translated": "Wellington Silva"
+    },
+    {
+        "file": "commentator_clip46.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Good luck to you. Thank you.",
+        "translated": "Good luck to you. Thank you."
+    },
+    {
+        "file": "spectator_clip47.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "han logrado irse con claridad ni una sola vete, Adrián. De hecho están mucho más centrados ambos, tanto él como Edgar, jugadores de banda, están más centrados en bajar a defender y ayudar a sus laterales que no en profundizar en ataque.",
+        "translated": "They have managed to leave with clear or one go, Adrián.In fact, both are much more focused, both he and Edgar, band players, are more focused on going down to defend and help their sides than not to deepen in attack."
+    },
+    {
+        "file": "commentator_clip48.wav",
+        "type": "commentator",
+        "lang": "cs",
+        "original": "Mixy.",
+        "translated": "Mixes."
+    },
+    {
+        "file": "spectator_clip49.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Buscaba con la mirada que Alves acompañara por la banda derecha. Tardó un poco en aparecer el brasileño, lo hace ahora.",
+        "translated": "I was looking for Alves to accompany the right wing.It took a bit to appear the Brazilian, does it now."
+    }
+]
