@@ -1,0 +1,352 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "sw",
+        "original": "See ya.",
+        "translated": "See of."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Sie sind nach wie vor Gast im Signal in Nuna Park in Dortmund.",
+        "translated": "You are still a guest in the Signal in Nuna Park in Dortmund."
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Nach 45 Minuten plus 4 Minuten Nachspielzeit steht es 1 zu 0. Überraschend für den Aufsteiger aus Darmstadt, der im Moment...",
+        "translated": "After 45 minutes plus 4 minutes of stoppage time it is 1 to 0. Surprisingly, for the promoted from Darmstadt, who is currently ..."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "auf Platz 5 steht, aber dafür interessiert sich Roman Tuchel nicht.",
+        "translated": "Roman Tuchel is not interested in 5th place."
+    },
+    {
+        "file": "spectator_clip5.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Ich hoffe aus Sicht des BVB, dass er...",
+        "translated": "I hope from the BVB's point of view that he ..."
+    },
+    {
+        "file": "commentator_clip6.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Und schon zu oft ging es, dass er die richtigen Worte gefunden hat.",
+        "translated": "And it was too often that he found the right words."
+    },
+    {
+        "file": "spectator_clip7.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Wer weckt du?",
+        "translated": "Who are you awakening"
+    },
+    {
+        "file": "commentator_clip8.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "und zu den Daten dieser ersten Hälfte, die bei den 70% Ballbesitz BVB in 54% Zweigen kann gewonnen.",
+        "translated": "And the data of these first half, which is won in 54% branches in the 70% possession BVB."
+    },
+    {
+        "file": "spectator_clip9.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Und 9 zu 2 Torschüsse, aber es kam nur je ein Ball aufs Tor und der eine war eben im Kasten des BVB von Marcel Heller.",
+        "translated": "And 9 to 2 shots on top, but only one ball came on the goal and one was just in the BVB box by Marcel Heller."
+    },
+    {
+        "file": "commentator_clip10.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Das war's.",
+        "translated": "That's it."
+    },
+    {
+        "file": "spectator_clip11.wav",
+        "type": "spectator",
+        "lang": "ko",
+        "original": "끝까지 시청해 주셔서 감사합니다.",
+        "translated": "Thank you for watching until the end."
+    },
+    {
+        "file": "commentator_clip12.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "5 minutos, yes",
+        "translated": "5 minutes, Yes"
+    },
+    {
+        "file": "spectator_clip13.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "hat die zweite Hälfte begonnen und der BVB spielt jetzt auf die Südtribüne.",
+        "translated": "The second half started and BVB is now playing on the south stand."
+    },
+    {
+        "file": "commentator_clip14.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "29.000 Fans, die dort stehen.",
+        "translated": "29,000 fans who are there."
+    },
+    {
+        "file": "spectator_clip15.wav",
+        "type": "spectator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "commentator_clip16.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "die eigene Mannschaft, das Spiel.",
+        "translated": "Your own team, the game."
+    },
+    {
+        "file": "spectator_clip17.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "doch noch drehen kann.",
+        "translated": "but can still turn."
+    },
+    {
+        "file": "commentator_clip18.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Aber die sind sehr klar gespielt.",
+        "translated": "But they are very clearly played."
+    },
+    {
+        "file": "spectator_clip19.wav",
+        "type": "spectator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "commentator_clip20.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Maier spielt weiter.",
+        "translated": "Maier continues."
+    },
+    {
+        "file": "spectator_clip21.wav",
+        "type": "spectator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "commentator_clip22.wav",
+        "type": "commentator",
+        "lang": "nl",
+        "original": "Dank u de rand.",
+        "translated": "Thank you the edge."
+    },
+    {
+        "file": "spectator_clip23.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Ich hab fünf, sechs Kilo abgenommen, darauf legt Thomas Duchel mehr, da auf vernünftige...",
+        "translated": "I lost five or six kilos, Thomas Duchel puts more on it, because on reasonable ..."
+    },
+    {
+        "file": "commentator_clip24.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Eine Ehrung.",
+        "translated": "An honor."
+    },
+    {
+        "file": "spectator_clip25.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "selbst mit gutem Beispiel voran.",
+        "translated": "Even with a good example."
+    },
+    {
+        "file": "commentator_clip26.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Aber das tut ihm gut.",
+        "translated": "But that is good for him."
+    },
+    {
+        "file": "spectator_clip27.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Auch wenn er heute noch keine Akzente setzen sollte.",
+        "translated": "Even if he shouldn't set any accents today."
+    },
+    {
+        "file": "commentator_clip28.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Aber eins ist auch klar.",
+        "translated": "But one thing is clear too."
+    },
+    {
+        "file": "spectator_clip29.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Is that me, Poppy?",
+        "translated": "Is that me, Poppy?"
+    },
+    {
+        "file": "commentator_clip30.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "hat 12 seiner 19 Tore in dieser Bundesliga-Saison in einer zweiten Hälfte erzielt, also der Köte.",
+        "translated": "Has scored 12 of his 19 goals in this Bundesliga season in a second half, the kill."
+    },
+    {
+        "file": "spectator_clip31.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Thank you.",
+        "translated": "Thank you."
+    },
+    {
+        "file": "commentator_clip32.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Welcome.",
+        "translated": "Welcome."
+    },
+    {
+        "file": "spectator_clip33.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Ein Zusammenstoß diesmal mit...",
+        "translated": "A collision this time with ..."
+    },
+    {
+        "file": "commentator_clip34.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Fuck!",
+        "translated": "Fuck!"
+    },
+    {
+        "file": "spectator_clip35.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Ja, genau. Und Kinder.",
+        "translated": "Yes, exactly.And children."
+    },
+    {
+        "file": "commentator_clip36.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Die hatten beide nur den Ball im Messier.",
+        "translated": "They both only had the ball in the messier."
+    },
+    {
+        "file": "spectator_clip37.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "In Sandro Wagner.",
+        "translated": "In Sandro Wagner."
+    },
+    {
+        "file": "commentator_clip38.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Thank you.",
+        "translated": "Thank you."
+    },
+    {
+        "file": "spectator_clip39.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Sie sehen immer wieder über die Außenpositionen.",
+        "translated": "You keep seeing the outdoor positions."
+    },
+    {
+        "file": "commentator_clip40.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "kommt dazu, initieren.",
+        "translated": "In addition, initiate."
+    },
+    {
+        "file": "spectator_clip41.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "weil sie wissen, dass sie dort...",
+        "translated": "Because you know that you ..."
+    },
+    {
+        "file": "commentator_clip42.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Das hat sie bekommen.",
+        "translated": "She got that."
+    },
+    {
+        "file": "spectator_clip43.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Wenn Schmelzer weit vorne spielt, wie gerade eben, wenn Kinder auf der anderen Seite auch ganz auf der Außenbahn.",
+        "translated": "When Schmelzer plays far ahead, just like just when children on the other side also on the outside."
+    },
+    {
+        "file": "commentator_clip44.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Eine Chance lauert.",
+        "translated": "A chance lurks."
+    },
+    {
+        "file": "spectator_clip45.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Das heißt natürlich...",
+        "translated": "Of course that means ..."
+    },
+    {
+        "file": "commentator_clip46.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "anders herum",
+        "translated": "the other way around"
+    },
+    {
+        "file": "spectator_clip47.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "specified B4B.",
+        "translated": "specified B4B."
+    },
+    {
+        "file": "commentator_clip48.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "den auf dem Index.",
+        "translated": "the one on the index."
+    },
+    {
+        "file": "spectator_clip49.wav",
+        "type": "spectator",
+        "lang": "de",
+        "original": "Zusammenstöße gab, aber nichts Böses, nichts Gemeines.",
+        "translated": "Conservation gave, but nothing bad, nothing in common."
+    }
+]
