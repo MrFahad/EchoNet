@@ -1,0 +1,352 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "And welcome back to the San Siro.",
+        "translated": "And welcome back to the San Siro."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Chizena players making their way onto the pitch. Chizena trailing 1-0 at half-time.",
+        "translated": "Chizena players making their way onto the pitch. Chizena trailing 1-0 at half-time."
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "He almost made it 1-1.",
+        "translated": "He almost made it 1-1."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Thank you.",
+        "translated": "Thank you."
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "on the stroke of the referee's whistle in 48 minutes.",
+        "translated": "on the stroke of the referee's whistle in 48 minutes."
+    },
+    {
+        "file": "spectator_clip5.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "They say it would ease with it.",
+        "translated": "They say it would ease with it."
+    },
+    {
+        "file": "commentator_clip6.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Volley, which was...",
+        "translated": "Volley, which was..."
+    },
+    {
+        "file": "spectator_clip7.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "wonderfully saved by Abbiati.",
+        "translated": "wonderfully saved by Abbiati."
+    },
+    {
+        "file": "commentator_clip8.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Beeland.",
+        "translated": "Beeland."
+    },
+    {
+        "file": "spectator_clip9.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "is just about deserving their one goal lead.",
+        "translated": "is just about deserving their one goal lead."
+    },
+    {
+        "file": "commentator_clip10.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "called on 22 minutes from Giacomo Bonaventura.",
+        "translated": "called on 22 minutes from Giacomo Bonaventura."
+    },
+    {
+        "file": "spectator_clip11.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "grasping shot from the edge of the area.",
+        "translated": "grasping shot from the edge of the area."
+    },
+    {
+        "file": "commentator_clip12.wav",
+        "type": "commentator",
+        "lang": "it",
+        "original": "Grazie.",
+        "translated": "Thank you."
+    },
+    {
+        "file": "spectator_clip13.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "I've got a hand soup, but couldn't keep out.",
+        "translated": "I've got a hand soup, but couldn't keep out."
+    },
+    {
+        "file": "commentator_clip14.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "That's Yongo Kivarulu, he should have done better.",
+        "translated": "That's Yongo Kivarulu, he should have done better."
+    },
+    {
+        "file": "spectator_clip15.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "We'll be right back.",
+        "translated": "We'll be right back."
+    },
+    {
+        "file": "commentator_clip16.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "The difference between these two signs is that Abbiati has made the save he was asked to.",
+        "translated": "The difference between these two signs is that Abbiati has made the save he was asked to."
+    },
+    {
+        "file": "spectator_clip17.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "And Leali Harden.",
+        "translated": "And Leali Harden."
+    },
+    {
+        "file": "commentator_clip18.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "very impressive Milan opening 10 minutes",
+        "translated": "very impressive Milan opening 10 minutes"
+    },
+    {
+        "file": "spectator_clip19.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "forcing 10 corner kicks.",
+        "translated": "forcing 10 corner kicks."
+    },
+    {
+        "file": "commentator_clip20.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "of free kicks from round about the penalty area paulie did have the ball in the back of the net",
+        "translated": "of free kicks from round about the penalty area paulie did have the ball in the back of the net"
+    },
+    {
+        "file": "spectator_clip21.wav",
+        "type": "spectator",
+        "lang": "it",
+        "original": "e destro un buon ozzo",
+        "translated": "and right a good ozzo"
+    },
+    {
+        "file": "commentator_clip22.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "standing in front of the goalkeeper",
+        "translated": "standing in front of the goalkeeper"
+    },
+    {
+        "file": "spectator_clip23.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "if it was disallowed.",
+        "translated": "if it was disallowed."
+    },
+    {
+        "file": "commentator_clip24.wav",
+        "type": "commentator",
+        "lang": "it",
+        "original": "di Cesena",
+        "translated": "of Cesena"
+    },
+    {
+        "file": "spectator_clip25.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "can actually score.",
+        "translated": "can actually score."
+    },
+    {
+        "file": "commentator_clip26.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Only they're...",
+        "translated": "Only they're..."
+    },
+    {
+        "file": "spectator_clip27.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "second goal",
+        "translated": "second goal"
+    },
+    {
+        "file": "commentator_clip28.wav",
+        "type": "commentator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "spectator_clip29.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "ever",
+        "translated": "ever"
+    },
+    {
+        "file": "commentator_clip30.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "In the second half, will they fall to another defeat?",
+        "translated": "In the second half, will they fall to another defeat?"
+    },
+    {
+        "file": "spectator_clip31.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "in and who start the second half.",
+        "translated": "in and who start the second half."
+    },
+    {
+        "file": "commentator_clip32.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "You need to come back.",
+        "translated": "You need to come back."
+    },
+    {
+        "file": "spectator_clip33.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "once again.",
+        "translated": "once again."
+    },
+    {
+        "file": "commentator_clip34.wav",
+        "type": "commentator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "spectator_clip35.wav",
+        "type": "spectator",
+        "lang": "unknown",
+        "original": "",
+        "translated": ""
+    },
+    {
+        "file": "commentator_clip36.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "zone.",
+        "translated": "zone."
+    },
+    {
+        "file": "spectator_clip37.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "have come from",
+        "translated": "have come from"
+    },
+    {
+        "file": "commentator_clip38.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "They haven't, they were beaten by Kangiri.",
+        "translated": "They haven't, they were beaten by Kangiri."
+    },
+    {
+        "file": "spectator_clip39.wav",
+        "type": "spectator",
+        "lang": "nl",
+        "original": "Binnen bij Empoli.",
+        "translated": "Inside at Empoli."
+    },
+    {
+        "file": "commentator_clip40.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Let's get the green over.",
+        "translated": "Let's get the green over."
+    },
+    {
+        "file": "spectator_clip41.wav",
+        "type": "spectator",
+        "lang": "it",
+        "original": "Grazie.",
+        "translated": "Thank you."
+    },
+    {
+        "file": "commentator_clip42.wav",
+        "type": "commentator",
+        "lang": "pt",
+        "original": "Carma",
+        "translated": "Karma"
+    },
+    {
+        "file": "spectator_clip43.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "against Juventus.",
+        "translated": "against Juventus."
+    },
+    {
+        "file": "commentator_clip44.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Sí, señor.",
+        "translated": "Yes sir."
+    },
+    {
+        "file": "spectator_clip45.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Forlorn.",
+        "translated": "Forlorn."
+    },
+    {
+        "file": "commentator_clip46.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "basically",
+        "translated": "basically"
+    },
+    {
+        "file": "spectator_clip47.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Dusted",
+        "translated": "Dusted"
+    },
+    {
+        "file": "commentator_clip48.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "We're going to have...",
+        "translated": "We're going to have..."
+    },
+    {
+        "file": "spectator_clip49.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "wrong to life.",
+        "translated": "wrong to life."
+    }
+]

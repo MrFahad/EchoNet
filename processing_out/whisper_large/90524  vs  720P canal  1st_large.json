@@ -1,0 +1,352 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Les saludamos nuevamente desde el Camp Nou, estamos en la última jornada del Campeonato Nacional Liguero del año 2014-2015, de la temporada 2014-2015.",
+        "translated": "We greet you again from the Camp Nou, we are on the last day of the 2014-2015 National Liguero Championship, of the 2014-2015 season."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Esta es la última jornada de liga para el fútbol español en primera división.",
+        "translated": "This is the last league day for Spanish football in the First Division."
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "El campeón.",
+        "translated": "The champion."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Es evidentemente el FC Barcelona y hoy aquí se va a vivir la fiesta.",
+        "translated": "It is obviously FC Barcelona and today the party will live."
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "de celebración de ese título de Liga.",
+        "translated": "of celebration of that league title."
+    },
+    {
+        "file": "spectator_clip5.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "¡Se juega la vida!",
+        "translated": "Life is played!"
+    },
+    {
+        "file": "commentator_clip6.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Y probablemente...",
+        "translated": "And probably ..."
+    },
+    {
+        "file": "spectator_clip7.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Necesite al menos puntuar para tener esperanzas de mantenerse en Primera División. El Barça, lógicamente, está pensando en compromisos futuros.",
+        "translated": "You need at least schedule to have hope of staying in the First Division.Barça, logically, is thinking of future commitments."
+    },
+    {
+        "file": "commentator_clip8.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Y esta es la alineación de Luis Enrique Masid en la portería con Mathieu Vermaelen que va a debutar Bartra y Adriano.",
+        "translated": "And this is the alignment of Luis Enrique Masid in the goal with Mathieu Vermaelen who is going to debut Bartra and Adriano."
+    },
+    {
+        "file": "spectator_clip9.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Rafinha, Sergi Roberto y Xavi Hernández con Neymar, Messi y...",
+        "translated": "Rafinha, Sergi Roberto and Xavi Hernández with Neymar, Messi and ..."
+    },
+    {
+        "file": "commentator_clip10.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "¡Pedro!",
+        "translated": "¡Pedro!"
+    },
+    {
+        "file": "spectator_clip11.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Se puede decir que de medio campo hacia arriba, con Xavi, con Messi, con Pedro y con...",
+        "translated": "It can be said that from midfield up, with Xavi, with Messi, with Pedro and with ..."
+    },
+    {
+        "file": "commentator_clip12.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Neymar, el equipo suena tremendamente potente, evidentemente muchísimas novedades en el resto del conjunto.",
+        "translated": "Neymar, the team sounds tremendously powerful, obviously many news in the rest of the set."
+    },
+    {
+        "file": "spectator_clip13.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Equipo del Deportivo de La Coruña con Fabricio Canella, Sidney Lopo, Laure, Bergantinos y Borges.",
+        "translated": "Deportivo de la Coruña team with Fabricio Canella, Sidney Lopo, Laure, Bergantinos and Borges."
+    },
+    {
+        "file": "commentator_clip14.wav",
+        "type": "commentator",
+        "lang": "pt",
+        "original": "Cabalero Juan Domínguez Salomão.",
+        "translated": "Cabalero Juan Domínguez Solomon."
+    },
+    {
+        "file": "spectator_clip15.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Y arriba.",
+        "translated": "And up."
+    },
+    {
+        "file": "commentator_clip16.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "¡Lucas!",
+        "translated": "¡Lucas!"
+    },
+    {
+        "file": "spectator_clip17.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Ese es el...",
+        "translated": "That is the ..."
+    },
+    {
+        "file": "commentator_clip18.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Once inicial de El Deportivo de La Coruña.",
+        "translated": "Initial eleven of El Deportivo de la Coruña."
+    },
+    {
+        "file": "spectator_clip19.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Con Lucas Pérez arriba.",
+        "translated": "With Lucas Pérez above."
+    },
+    {
+        "file": "commentator_clip20.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "El equipo.",
+        "translated": "The team."
+    },
+    {
+        "file": "spectator_clip21.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "De Víctor Sánchez de Lamo.",
+        "translated": "By Víctor Sánchez de Lamo."
+    },
+    {
+        "file": "commentator_clip22.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "El presidente, como todos ustedes recordarán, aquel superdeportivo de La Coruña que ha cogido el equipo en las últimas jornadas de liga y que está intentando...",
+        "translated": "The president, as all of you will remember, that Support of La Coruña who has taken the team in the last days of the League and is trying ..."
+    },
+    {
+        "file": "spectator_clip23.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Mantenerlo en primera...",
+        "translated": "Keep it in the first ..."
+    },
+    {
+        "file": "commentator_clip24.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "División.",
+        "translated": "Division."
+    },
+    {
+        "file": "spectator_clip25.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "El Barça-Michael de fiesta, y de fiesta porque celebra el título.",
+        "translated": "Barça-Michael partying, and partying because it celebrates the title."
+    },
+    {
+        "file": "commentator_clip26.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Y también de fiesta porque...",
+        "translated": "And also party because ..."
+    },
+    {
+        "file": "spectator_clip27.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Como decíamos antes con...",
+        "translated": "As we said before with ..."
+    },
+    {
+        "file": "commentator_clip28.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Los padres de Xavi.",
+        "translated": "Xavi's parents."
+    },
+    {
+        "file": "spectator_clip29.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "La despedida del jugador de Terrassa, de Legarense, va a ser...",
+        "translated": "The farewell of the Terrassa player, from Legarense, will be ..."
+    },
+    {
+        "file": "commentator_clip30.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Soñada, Michael.",
+        "translated": "Dreamy, Michael."
+    },
+    {
+        "file": "spectator_clip31.wav",
+        "type": "spectator",
+        "lang": "it",
+        "original": "Poi sì, e se partito...",
+        "translated": "Then yes, and if you start ..."
+    },
+    {
+        "file": "commentator_clip32.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Uno puede sospechar por la hora y también por la misión cumplida.",
+        "translated": "One can suspect for the time and also by the mission fulfilled."
+    },
+    {
+        "file": "spectator_clip33.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Yes, come, Pyunkit.",
+        "translated": "Yes, come, Pyunkit."
+    },
+    {
+        "file": "commentator_clip34.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Pues vendré menos gente, pero yo creo que vendrá muchísima gente solo.",
+        "translated": "Well, I will come less people, but I think there will come a lot of people alone."
+    },
+    {
+        "file": "spectator_clip35.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "para ponerse de pie, para saludar.",
+        "translated": "To stand up, to greet."
+    },
+    {
+        "file": "commentator_clip36.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "He disbelieved.",
+        "translated": "He disbelieved."
+    },
+    {
+        "file": "spectator_clip37.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "We'll be right back.",
+        "translated": "We'll be right back."
+    },
+    {
+        "file": "commentator_clip38.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Quizás el mejor futbolista español de los...",
+        "translated": "Maybe the best Spanish footballer of the ..."
+    },
+    {
+        "file": "spectator_clip39.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "últimos tiempos, los últimos tiempos.",
+        "translated": "Last times, recent times."
+    },
+    {
+        "file": "commentator_clip40.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Yo nunca he visto un centrocampista tan bueno como él.",
+        "translated": "I've never seen a midfielder as good as he."
+    },
+    {
+        "file": "spectator_clip41.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Javier Hernández.",
+        "translated": "Javier Hernández."
+    },
+    {
+        "file": "commentator_clip42.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Que va a tener la oportunidad de despedirse desde el terno de juego, el capitán.",
+        "translated": "That he will have the opportunity to say goodbye from the game, the captain."
+    },
+    {
+        "file": "spectator_clip43.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Ahí está Salvat, no sé cómo.",
+        "translated": "There is Salvat, I don't know how."
+    },
+    {
+        "file": "commentator_clip44.wav",
+        "type": "commentator",
+        "lang": "it",
+        "original": "Uno.",
+        "translated": "A."
+    },
+    {
+        "file": "spectator_clip45.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "viejo, viejísimo conocido de Mil Batallas",
+        "translated": "Old, very old known one thousand battles"
+    },
+    {
+        "file": "commentator_clip46.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Lopo, los dos caminando para...",
+        "translated": "Lopo, both walking to ..."
+    },
+    {
+        "file": "spectator_clip47.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "El túnel de vestuarios, sonrientes.",
+        "translated": "The changing room tunnel, smiling."
+    },
+    {
+        "file": "commentator_clip48.wav",
+        "type": "commentator",
+        "lang": "es",
+        "original": "Entre Xavi y Lopo.",
+        "translated": "Between Xavi and Lopo."
+    },
+    {
+        "file": "spectator_clip49.wav",
+        "type": "spectator",
+        "lang": "es",
+        "original": "Nosotros aquí también tendremos todo preparado para despedir a Xavi, para despedir a la Liga y también a nuestra cámara de alta velocidad.",
+        "translated": "We will also have everything prepared to fire Xavi, to fire the League and also our high -speed camera."
+    }
+]

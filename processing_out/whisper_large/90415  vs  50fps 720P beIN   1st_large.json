@@ -1,0 +1,352 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "It's a good atmosphere.",
+        "translated": "It's a good atmosphere."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "You like playing in that stadium?",
+        "translated": "You like playing in that stadium?"
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Well, excellent.",
+        "translated": "Well, excellent."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "You and I both. Imagine we were on Madrid. Yeah, exactly.",
+        "translated": "You and I both. Imagine we were on Madrid. Yeah, exactly."
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "One of the players we haven't mentioned.",
+        "translated": "One of the players we haven't mentioned."
+    },
+    {
+        "file": "spectator_clip5.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "uh...",
+        "translated": "uh..."
+    },
+    {
+        "file": "commentator_clip6.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "And it's strange. Yes. Modern.",
+        "translated": "And it's strange. Yes. Modern."
+    },
+    {
+        "file": "spectator_clip7.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Modric. Why haven't we mentioned Modric? Because he...",
+        "translated": "Modric. Why haven't we mentioned Modric? Because he..."
+    },
+    {
+        "file": "commentator_clip8.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Since he's come back, I think we've seen his majority of fans a bit more. Yeah, I think we all run with the fans.",
+        "translated": "Since he's come back, I think we've seen his majority of fans a bit more. Yeah, I think we all run with the fans."
+    },
+    {
+        "file": "spectator_clip9.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "I missed him a lot.",
+        "translated": "I missed him a lot."
+    },
+    {
+        "file": "commentator_clip10.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "there is one man",
+        "translated": "there is one man"
+    },
+    {
+        "file": "spectator_clip11.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "They're missing even more than us.",
+        "translated": "They're missing even more than us."
+    },
+    {
+        "file": "commentator_clip12.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "and it was a different course.",
+        "translated": "and it was a different course."
+    },
+    {
+        "file": "spectator_clip13.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "You know, it's more than 10,000.",
+        "translated": "You know, it's more than 10,000."
+    },
+    {
+        "file": "commentator_clip14.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "He's bringing something different, he's bringing dynamism into the middle.",
+        "translated": "He's bringing something different, he's bringing dynamism into the middle."
+    },
+    {
+        "file": "spectator_clip15.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "He's bringing control, he's bringing...",
+        "translated": "He's bringing control, he's bringing..."
+    },
+    {
+        "file": "commentator_clip16.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Mullins as well.",
+        "translated": "Mullins as well."
+    },
+    {
+        "file": "spectator_clip17.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "And I think it's the perfect partnership for him because he releases him.",
+        "translated": "And I think it's the perfect partnership for him because he releases him."
+    },
+    {
+        "file": "commentator_clip18.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "And so it's a different way we think.",
+        "translated": "And so it's a different way we think."
+    },
+    {
+        "file": "spectator_clip19.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "So I think it's a big, big one for us in the end of this competition, but not this year.",
+        "translated": "So I think it's a big, big one for us in the end of this competition, but not this year."
+    },
+    {
+        "file": "commentator_clip20.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "And at the same time,",
+        "translated": "And at the same time,"
+    },
+    {
+        "file": "spectator_clip21.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "if we compare with the last derby.",
+        "translated": "if we compare with the last derby."
+    },
+    {
+        "file": "commentator_clip22.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "When, you know, where we've...",
+        "translated": "When, you know, where we've..."
+    },
+    {
+        "file": "spectator_clip23.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Lost Phony",
+        "translated": "Lost Phony"
+    },
+    {
+        "file": "commentator_clip24.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "It was a killer for us.",
+        "translated": "It was a killer for us."
+    },
+    {
+        "file": "spectator_clip25.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "We recover the whole spine. We recover the leader of the body.",
+        "translated": "We recover the whole spine. We recover the leader of the body."
+    },
+    {
+        "file": "commentator_clip26.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "obviously.",
+        "translated": "obviously."
+    },
+    {
+        "file": "spectator_clip27.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Sergio Ramos, and we'll recover.",
+        "translated": "Sergio Ramos, and we'll recover."
+    },
+    {
+        "file": "commentator_clip28.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Cruz in the middle.",
+        "translated": "Cruz in the middle."
+    },
+    {
+        "file": "spectator_clip29.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Sorry, I'm only changing the middle, I won't say who's.",
+        "translated": "Sorry, I'm only changing the middle, I won't say who's."
+    },
+    {
+        "file": "commentator_clip30.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "which is crucial for us. I agree.",
+        "translated": "which is crucial for us. I agree."
+    },
+    {
+        "file": "spectator_clip31.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "They complement each other in a wonderful manner.",
+        "translated": "They complement each other in a wonderful manner."
+    },
+    {
+        "file": "commentator_clip32.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "to who by soon.",
+        "translated": "to who by soon."
+    },
+    {
+        "file": "spectator_clip33.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "running and",
+        "translated": "running and"
+    },
+    {
+        "file": "commentator_clip34.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "And you don't have any place to sit.",
+        "translated": "And you don't have any place to sit."
+    },
+    {
+        "file": "spectator_clip35.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "You know, when they're going away.",
+        "translated": "You know, when they're going away."
+    },
+    {
+        "file": "commentator_clip36.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "I think that they really...",
+        "translated": "I think that they really..."
+    },
+    {
+        "file": "spectator_clip37.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "complement each other with the qualities. That's very important. You've got to balance them.",
+        "translated": "complement each other with the qualities. That's very important. You've got to balance them."
+    },
+    {
+        "file": "commentator_clip38.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "There's someone who's upset with the truth.",
+        "translated": "There's someone who's upset with the truth."
+    },
+    {
+        "file": "spectator_clip39.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Real Madrid, where Ricard Bale, Ricard Ronaldo, they all the time want to project, go up front, but it wants to play one with one.",
+        "translated": "Real Madrid, where Ricard Bale, Ricard Ronaldo, they all the time want to project, go up front, but it wants to play one with one."
+    },
+    {
+        "file": "commentator_clip40.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "the ball to move around before going at front then it's also someone who",
+        "translated": "the ball to move around before going at front then it's also someone who"
+    },
+    {
+        "file": "spectator_clip41.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "the temperature of the moment.",
+        "translated": "the temperature of the moment."
+    },
+    {
+        "file": "commentator_clip42.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "for the team.",
+        "translated": "for the team."
+    },
+    {
+        "file": "spectator_clip43.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "laughing there because when I was at Newcastle's second time, his agent's a big fan of mine from when he was a boy, so he came to Newcastle to see if we were interested in the guys.",
+        "translated": "laughing there because when I was at Newcastle's second time, his agent's a big fan of mine from when he was a boy, so he came to Newcastle to see if we were interested in the guys."
+    },
+    {
+        "file": "commentator_clip44.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Gucci signed all the players, which was Denny Suarez and a guy called Jimenez.",
+        "translated": "Gucci signed all the players, which was Denny Suarez and a guy called Jimenez."
+    },
+    {
+        "file": "spectator_clip45.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "said to the agent.",
+        "translated": "said to the agent."
+    },
+    {
+        "file": "commentator_clip46.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "We don't think he's strong enough or good enough to play in the Premier League.",
+        "translated": "We don't think he's strong enough or good enough to play in the Premier League."
+    },
+    {
+        "file": "spectator_clip47.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Well, how right they were.",
+        "translated": "Well, how right they were."
+    },
+    {
+        "file": "commentator_clip48.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "That's why I was laughing. That's why he's in Spain. He didn't do it at Tottenham, did he? No. When you talk about Tottenham, he's another player who adapted himself to the reality.",
+        "translated": "That's why I was laughing. That's why he's in Spain. He didn't do it at Tottenham, did he? No. When you talk about Tottenham, he's another player who adapted himself to the reality."
+    },
+    {
+        "file": "spectator_clip49.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "I don't know what you're talking about.",
+        "translated": "I don't know what you're talking about."
+    }
+]
