@@ -1,0 +1,352 @@
+[
+    {
+        "file": "commentator_clip0.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Thank you.",
+        "translated": "Thank you."
+    },
+    {
+        "file": "spectator_clip1.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Everything's underway.",
+        "translated": "Everything's underway."
+    },
+    {
+        "file": "commentator_clip2.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Adrian Schreinsteiger, first game back for him after that game against Dortmund.",
+        "translated": "Adrian Schreinsteiger, first game back for him after that game against Dortmund."
+    },
+    {
+        "file": "spectator_clip3.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "years ago that was.",
+        "translated": "years ago that was."
+    },
+    {
+        "file": "commentator_clip4.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "idea.",
+        "translated": "idea."
+    },
+    {
+        "file": "spectator_clip5.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "satisfied, he'll get things.",
+        "translated": "satisfied, he'll get things."
+    },
+    {
+        "file": "commentator_clip6.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "on the way.",
+        "translated": "on the way."
+    },
+    {
+        "file": "spectator_clip7.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "style of",
+        "translated": "style of"
+    },
+    {
+        "file": "commentator_clip8.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "loop there.",
+        "translated": "loop there."
+    },
+    {
+        "file": "spectator_clip9.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "But it was that style.",
+        "translated": "But it was that style."
+    },
+    {
+        "file": "commentator_clip10.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Picking from right.",
+        "translated": "Picking from right."
+    },
+    {
+        "file": "spectator_clip11.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "now, bye.",
+        "translated": "now, bye."
+    },
+    {
+        "file": "commentator_clip12.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Stay back.",
+        "translated": "Stay back."
+    },
+    {
+        "file": "spectator_clip13.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Bernat here, although he should be back for the cup game against Dortmund in the middle of the week.",
+        "translated": "Bernat here, although he should be back for the cup game against Dortmund in the middle of the week."
+    },
+    {
+        "file": "commentator_clip14.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Martínez.",
+        "translated": "Martínez."
+    },
+    {
+        "file": "spectator_clip15.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "is on the bench, Rafinha's got a groin injury.",
+        "translated": "is on the bench, Rafinha's got a groin injury."
+    },
+    {
+        "file": "commentator_clip16.wav",
+        "type": "commentator",
+        "lang": "id",
+        "original": "Ribery.",
+        "translated": "Ribery."
+    },
+    {
+        "file": "spectator_clip17.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Still has that ankle problem and Robin.",
+        "translated": "Still has that ankle problem and Robin."
+    },
+    {
+        "file": "commentator_clip18.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "little bit too early for him to come back as well this game.",
+        "translated": "little bit too early for him to come back as well this game."
+    },
+    {
+        "file": "spectator_clip19.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "might be on the bench.",
+        "translated": "might be on the bench."
+    },
+    {
+        "file": "commentator_clip20.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "against Dortmund.",
+        "translated": "against Dortmund."
+    },
+    {
+        "file": "spectator_clip21.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Berlin without craft.",
+        "translated": "Berlin without craft."
+    },
+    {
+        "file": "commentator_clip22.wav",
+        "type": "commentator",
+        "lang": "no",
+        "original": "Ja, Stein.",
+        "translated": "Yes, stone."
+    },
+    {
+        "file": "spectator_clip23.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "I found my old hands out of the cruise ship.",
+        "translated": "I found my old hands out of the cruise ship."
+    },
+    {
+        "file": "commentator_clip24.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "injury that he's coming back from, Shigazi.",
+        "translated": "injury that he's coming back from, Shigazi."
+    },
+    {
+        "file": "spectator_clip25.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "broken metatarsal, Hustle guy's got a foot injury.",
+        "translated": "broken metatarsal, Hustle guy's got a foot injury."
+    },
+    {
+        "file": "commentator_clip26.wav",
+        "type": "commentator",
+        "lang": "de",
+        "original": "Julian Schieber.",
+        "translated": "Julian Schieber."
+    },
+    {
+        "file": "spectator_clip27.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "He's out with a knee problem, he's had an operation on that. Behrens is out with an ankle, Ben Hatira.",
+        "translated": "He's out with a knee problem, he's had an operation on that. Behrens is out with an ankle, Ben Hatira."
+    },
+    {
+        "file": "commentator_clip28.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "not in the squad.",
+        "translated": "not in the squad."
+    },
+    {
+        "file": "spectator_clip29.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "has a little look up.",
+        "translated": "has a little look up."
+    },
+    {
+        "file": "commentator_clip30.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Polite applause.",
+        "translated": "Polite applause."
+    },
+    {
+        "file": "spectator_clip31.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "team.",
+        "translated": "team."
+    },
+    {
+        "file": "commentator_clip32.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "with only two players from outside of Germany.",
+        "translated": "with only two players from outside of Germany."
+    },
+    {
+        "file": "spectator_clip33.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "I'll see you then.",
+        "translated": "I'll see you then."
+    },
+    {
+        "file": "commentator_clip34.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Lewandowski and Dante there on the ball.",
+        "translated": "Lewandowski and Dante there on the ball."
+    },
+    {
+        "file": "spectator_clip35.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "And that's happened for...",
+        "translated": "And that's happened for..."
+    },
+    {
+        "file": "commentator_clip36.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "It's a while.",
+        "translated": "It's a while."
+    },
+    {
+        "file": "spectator_clip37.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "20th of November 1999, a 6-1 win against Freiburg.",
+        "translated": "20th of November 1999, a 6-1 win against Freiburg."
+    },
+    {
+        "file": "commentator_clip38.wav",
+        "type": "commentator",
+        "lang": "it",
+        "original": "Carlos Sergio and Giovanni.",
+        "translated": "Carlos Sergio and Giovanni."
+    },
+    {
+        "file": "spectator_clip39.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "Received play.",
+        "translated": "Received play."
+    },
+    {
+        "file": "commentator_clip40.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "today",
+        "translated": "today"
+    },
+    {
+        "file": "spectator_clip41.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "enough to keep him away from the ball.",
+        "translated": "enough to keep him away from the ball."
+    },
+    {
+        "file": "commentator_clip42.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "Curie.",
+        "translated": "Curie."
+    },
+    {
+        "file": "spectator_clip43.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "a bit of leverage.",
+        "translated": "a bit of leverage."
+    },
+    {
+        "file": "commentator_clip44.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "That one plus.",
+        "translated": "That one plus."
+    },
+    {
+        "file": "spectator_clip45.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "his own keeper.",
+        "translated": "his own keeper."
+    },
+    {
+        "file": "commentator_clip46.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "first corner of the game.",
+        "translated": "first corner of the game."
+    },
+    {
+        "file": "spectator_clip47.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "27.",
+        "translated": "27."
+    },
+    {
+        "file": "commentator_clip48.wav",
+        "type": "commentator",
+        "lang": "en",
+        "original": "the time.",
+        "translated": "the time."
+    },
+    {
+        "file": "spectator_clip49.wav",
+        "type": "spectator",
+        "lang": "en",
+        "original": "history.",
+        "translated": "history."
+    }
+]
