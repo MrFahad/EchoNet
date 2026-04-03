@@ -3,6 +3,7 @@
 ### Citation
 If you find our work interesting, don't forget to give us a ⭐️ and cite the below papers:
 
+
 @article{majeed2025real,
   title={Real-time analysis of soccer ball--player interactions using graph convolutional networks for enhanced game insights},
   author={Majeed, Fahad and Nazir, Maria and Swart, Kamilla and Agus, Marco and Schneider, Jens},
