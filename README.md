@@ -4,6 +4,15 @@
 If you find [EchoNet](https://github.com/MrFahad/EchoNet.git) is useful in your research or applications, please consider giving us a star 🌟 and citing it.
 
 ```bibtex
+
+@article{majeed2026echonet++,
+  title={EchoNet++: A multilingual soccer match audio commentary dataset: F. Majeed et al.},
+  author={Majeed, Fahad and Nazir, Maria and Agus, Marco and Schneider, Jens},
+  journal={Scientific Reports},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
+}
+
 @article{majeed2025real,
   title={Real-time analysis of soccer ball--player interactions using graph convolutional networks for enhanced game insights},
   author={Majeed, Fahad and Nazir, Maria and Swart, Kamilla and Agus, Marco and Schneider, Jens},
@@ -12,14 +21,6 @@ If you find [EchoNet](https://github.com/MrFahad/EchoNet.git) is useful in your 
   number={1},
   pages={21859},
   year={2025},
-  publisher={Nature Publishing Group UK London}
-}
-
-@article{majeed2026echonet++,
-  title={EchoNet++: A multilingual soccer match audio commentary dataset: F. Majeed et al.},
-  author={Majeed, Fahad and Nazir, Maria and Agus, Marco and Schneider, Jens},
-  journal={Scientific Reports},
-  year={2026},
   publisher={Nature Publishing Group UK London}
 }
 
