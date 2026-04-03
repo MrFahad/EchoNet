@@ -1,9 +1,9 @@
 **Note:** The full dataset is currently being developed and will be made available soon. Stay tuned for updates and the official release!
 
-### Citation
-If you find our work interesting, don't forget to give us a ⭐️ and cite the below papers:
+## Citations
+If you find [EchoNet](https://github.com/MrFahad/EchoNet.git) is useful in your research or applications, please consider giving us a star 🌟 and citing it.
 
-
+```bibtex
 @article{majeed2025real,
   title={Real-time analysis of soccer ball--player interactions using graph convolutional networks for enhanced game insights},
   author={Majeed, Fahad and Nazir, Maria and Swart, Kamilla and Agus, Marco and Schneider, Jens},
