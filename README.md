@@ -3,15 +3,6 @@
 ### Citation
 If you find our work interesting, don't forget to give us a ⭐️ and cite the below papers:
 
-```
-@article{majeed2026echonet++,
-  title={EchoNet++: A multilingual soccer match audio commentary dataset: F. Majeed et al.},
-  author={Majeed, Fahad and Nazir, Maria and Agus, Marco and Schneider, Jens},
-  journal={Scientific Reports},
-  year={2026},
-  publisher={Nature Publishing Group UK London}
-}
-
 @article{majeed2025real,
   title={Real-time analysis of soccer ball--player interactions using graph convolutional networks for enhanced game insights},
   author={Majeed, Fahad and Nazir, Maria and Swart, Kamilla and Agus, Marco and Schneider, Jens},
@@ -20,6 +11,14 @@ If you find our work interesting, don't forget to give us a ⭐️ and cite the 
   number={1},
   pages={21859},
   year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{majeed2026echonet++,
+  title={EchoNet++: A multilingual soccer match audio commentary dataset: F. Majeed et al.},
+  author={Majeed, Fahad and Nazir, Maria and Agus, Marco and Schneider, Jens},
+  journal={Scientific Reports},
+  year={2026},
   publisher={Nature Publishing Group UK London}
 }
 
@@ -40,4 +39,3 @@ If you find our work interesting, don't forget to give us a ⭐️ and cite the 
   year={2025},
   organization={Science and Technology Publications, Lda}
 }
-```
